@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 
-# 
-
 # convivium
 
 **Every dish, done at the same time.**
