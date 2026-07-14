@@ -17,8 +17,6 @@ many burners, how many ovens), pick a serve time, and it computes a single
 conflict-free, minute-by-minute plan working *backward* from the moment food
 hits the table.
 
-![p](https://github.com/bell-kevin/convivium/blob/main/docs/shot.png)
-
 It knows that hands-on steps need a cook and hands-off steps don't. It knows
 a pot of rice occupies a burner even while you ignore it. It knows two dishes
 at 425 °F can share one oven, but 425 °F and 350 °F cannot. When something
